@@ -1,0 +1,131 @@
+﻿fecha,equipo,rival,entrenador,alineacion,goles_a_favor,goles_en_contra,resultado,puntos,puntos_acumulados,resultado_texto,estadio,ciudad,capacidad,altitud,disparos,disparos_al_arco,posesion,pases,pases_completados_en_porcentaje,faltas,tarjetas_amarillas,tarjetas_rojas,offsides,corners,jornada
+2023-09-07,Paraguay,Peru,Guillermo Barros Schelotto,4-3-3,0,0,0-0,1,1,Empate,Estadio Antonio Aranda,Ciudad del Este,28000,185,19,6,60,429,85,19,0,0,0,11,01
+2023-09-07,Peru,Paraguay,Juan Reynoso,4-2-3-1,0,0,0-0,1,1,Empate,Estadio Antonio Aranda,Ciudad del Este,28000,185,5,0,40,309,75,13,1,1,2,1,01
+2023-09-07,Colombia,Venezuela,Nestor Lorenzo,4-3-3,1,0,1-0,3,3,Victoria,Estadio Metropolitano,Barranquilla,46692,59,13,4,71,578,87,13,0,0,3,2,01
+2023-09-07,Venezuela,Colombia,Fernando Batista,4-3-3,0,1,0-1,0,0,Derrota,Estadio Metropolitano,Barranquilla,46692,59,7,2,29,237,68,19,1,0,1,4,01
+2023-09-07,Argentina,Ecuador,Lionel Scaloni,4-3-3,1,0,1-0,3,3,Victoria,Estadio Mas Monumental,Buenos Aires,85018,82,13,4,71,710,87,9,1,0,2,4,01
+2023-09-07,Ecuador,Argentina,Felix Sanchez Bas,5-3-2,0,1,0-1,0,0,Derrota,Estadio Mas Monumental,Buenos Aires,85018,82,5,3,29,294,72,13,1,0,1,2,01
+2023-09-08,Uruguay,Chile,Marcelo Bielsa,4-3-3,3,1,3-1,3,3,Victoria,Estadio Centenario,Montevideo,60235,141,18,7,51,440,80,17,4,0,1,3,01
+2023-09-08,Chile,Uruguay,Eduardo Berizzo,4-4-2,1,3,1-3,0,0,Derrota,Estadio Centenario,Montevideo,60235,141,7,2,49,432,77,16,5,0,1,3,01
+2023-09-08,Brazil,Bolivia,Fernando Diniz,4-2-3-1,5,1,5-1,3,3,Victoria,Mangueirão,Pará,53635,748,21,11,80,614,92,6,1,0,1,6,01
+2023-09-08,Bolivia,Brazil,Gustavo Costas,5-4-1,1,5,1-5,0,0,Derrota,Mangueirão,Pará,53635,748,4,3,20,156,70,14,2,0,4,1,01
+2023-09-12,Bolivia,Argentina,Gustavo Costas,5-3-2,0,3,0-3,0,0,Derrota,Estadio Hernando Siles,La Paz,41143,11975,4,2,40,327,73,23,4,1,1,1,02
+2023-09-12,Argentina,Bolivia,Lionel Scaloni,4-3-3,3,0,3-0,3,6,Victoria,Estadio Hernando Siles,La Paz,41143,11975,15,8,60,482,81,10,0,0,1,4,02
+2023-09-12,Ecuador,Uruguay,Felix Sanchez Bas,5-3-2,2,1,2-1,3,0,Victoria,Casa Blanca,Quito,41575,9350,15,4,50,347,80,12,2,0,0,10,02
+2023-09-12,Uruguay,Ecuador,Marcelo Bielsa,4-2-3-1,1,2,1-2,0,3,Derrota,Casa Blanca,Quito,41575,9350,5,2,50,353,77,18,3,0,2,2,02
+2023-09-12,Venezuela,Paraguay,Fernando Batista,4-4-2,1,0,1-0,3,3,Victoria,Estadio Monumental de Maturín,Maturin,51796,220,11,3,54,318,70,13,3,0,0,7,02
+2023-09-12,Paraguay,Venezuela,Guillermo Barros Schelotto,4-3-3,0,1,0-1,0,1,Derrota,Estadio Monumental de Maturín,Maturin,51796,220,18,5,46,275,67,14,4,0,0,5,02
+2023-09-12,Chile,Colombia,Eduardo Berizzo,4-3-3,0,0,0-0,1,1,Empate,Estadio Monumental David Arellano,Macul,47000,1883,10,5,51,413,75,13,1,0,3,6,02
+2023-09-12,Colombia,Chile,Nestor Lorenzo,4-3-3,0,0,0-0,1,4,Empate,Estadio Monumental David Arellano,Macul,47000,1883,8,2,49,403,81,19,5,0,1,3,02
+2023-09-12,Peru,Brazil,Juan Reynoso,4-4-2,0,1,0-1,0,1,Derrota,Estadio Nacional de Lima,Lima,50086,505,6,0,37,347,80,20,3,0,4,4,02
+2023-09-12,Brazil,Peru,Fernando Diniz,4-2-3-1,1,0,1-0,3,6,Victoria,Estadio Nacional de Lima,Lima,50086,505,9,3,63,590,87,14,2,0,3,4,02
+2023-10-12,Colombia,Uruguay,Nestor Lorenzo,4-2-3-1,2,2,2-2,1,5,Empate,Estadio Metropolitano,Barranquilla,46692,59,14,4,48,383,81,17,0,1,0,3,03
+2023-10-12,Uruguay,Colombia,Marcelo Bielsa,4-2-3-1,2,2,2-2,1,4,Empate,Estadio Metropolitano,Barranquilla,46692,59,15,6,52,395,83,10,0,0,0,2,03
+2023-10-12,Bolivia,Ecuador,Gustavo Costas,5-3-2,1,2,1-2,0,0,Derrota,Estadio Hernando Siles,La Paz,41143,11975,16,4,33,334,74,10,1,0,0,5,03
+2023-10-12,Ecuador,Bolivia,Felix Sanchez Bas,4-2-3-1,2,1,2-1,3,3,Victoria,Estadio Hernando Siles,La Paz,41143,11975,8,3,67,276,80,9,0,0,0,0,03
+2023-10-12,Argentina,Paraguay,Lionel Scaloni,4-3-3,1,0,1-0,3,9,Victoria,Estadio Mas Monumental,Buenos Aires,85018,82,15,4,75,741,90,10,1,0,3,0,03
+2023-10-12,Paraguay,Argentina,Daniel Garnero,3-4-3,0,1,0-1,0,1,Derrota,Estadio Mas Monumental,Buenos Aires,85018,82,4,1,25,252,72,19,2,0,2,1,03
+2023-10-12,Chile,Peru,Eduardo Berizzo,4-2-3-1,2,0,2-0,3,4,Victoria,Estadio Monumental David Arellano,Macul,47000,1883,13,7,64,572,85,10,2,0,1,8,03
+2023-10-12,Peru,Chile,Juan Reynoso,4-2-3-1,0,2,0-2,0,1,Derrota,Estadio Monumental David Arellano,Macul,47000,1883,4,0,36,325,76,16,2,0,0,6,03
+2023-10-12,Brazil,Venezuela,Fernando Diniz,4-2-3-1,1,1,1-1,1,7,Empate,Arena Pantanal,Cuiabá,41390,541,15,6,71,625,90,13,2,0,2,7,03
+2023-10-12,Venezuela,Brazil,Fernando Batista,4-4-2,1,1,1-1,1,4,Empate,Arena Pantanal,Cuiabá,41390,541,9,2,29,250,76,11,2,0,1,5,03
+2023-10-17,Venezuela,Chile,Fernando Batista,4-3-3,3,0,3-0,3,7,Victoria,Estadio Monumental de Maturín,Maturin,51796,220,13,6,42,367,84,14,1,0,1,2,04
+2023-10-17,Chile,Venezuela,Eduardo Berizzo,4-3-3,0,3,0-3,0,4,Derrota,Estadio Monumental de Maturín,Maturin,51796,220,11,1,58,508,86,13,1,1,1,3,04
+2023-10-17,Paraguay,Bolivia,Daniel Garnero,4-2-3-1,1,0,1-0,3,4,Victoria,Estadio Defensores del Chaco,Asunción,42354,141,13,7,63,393,79,12,2,0,3,8,04
+2023-10-17,Bolivia,Paraguay,Gustavo Costas,5-3-2,0,1,0-1,0,0,Derrota,Estadio Defensores del Chaco,Asunción,42354,141,6,0,37,241,60,12,5,0,0,1,04
+2023-10-17,Ecuador,Colombia,Felix Sanchez Bas,3-5-2,0,0,0-0,1,4,Empate,Casa Blanca,Quito,41575,9350,11,3,54,378,81,15,2,0,2,3,04
+2023-10-17,Colombia,Ecuador,Nestor Lorenzo,4-2-3-1,0,0,0-0,1,6,Empate,Casa Blanca,Quito,41575,9350,8,3,46,324,78,17,4,0,4,6,04
+2023-10-17,Uruguay,Brazil,Marcelo Bielsa,4-2-3-1,2,0,2-0,3,7,Victoria,Estadio Centenario,Montevideo,60235,141,5,2,38,334,77,18,3,0,2,2,04
+2023-10-17,Brazil,Uruguay,Fernando Diniz,4-2-3-1,0,2,0-2,0,7,Derrota,Estadio Centenario,Montevideo,60235,141,2,0,62,530,90,16,5,0,1,2,04
+2023-10-17,Peru,Argentina,Juan Reynoso,4-4-1-1,0,2,0-2,0,1,Derrota,Estadio Nacional de Lima,Lima,50086,505,6,0,34,339,79,19,2,0,3,1,04
+2023-10-17,Argentina,Peru,Lionel Scaloni,4-3-3,2,0,2-0,3,12,Victoria,Estadio Nacional de Lima,Lima,50086,505,10,6,66,673,89,10,0,0,2,1,04
+2023-11-16,Bolivia,Peru,Antônio Carlos Zago,4-2-3-1,2,0,2-0,3,3,Victoria,Estadio Hernando Siles,La Paz,41143,11975,16,5,44,304,74,16,2,0,1,4,05
+2023-11-16,Peru,Bolivia,Juan Reynoso,4-3-3,0,2,0-2,0,1,Derrota,Estadio Hernando Siles,La Paz,41143,11975,9,2,56,372,79,6,4,0,0,3,05
+2023-11-16,Venezuela,Ecuador,Fernando Batista,4-3-3,0,0,0-0,1,8,Empate,Estadio Monumental de Maturín,Maturin,51796,220,7,2,49,332,78,8,2,0,0,4,05
+2023-11-16,Ecuador,Venezuela,Felix Sanchez Bas,4-2-3-1,0,0,0-0,1,5,Empate,Estadio Monumental de Maturín,Maturin,51796,220,8,1,51,349,81,14,3,0,1,3,05
+2023-11-16,Colombia,Brazil,Nestor Lorenzo,4-2-3-1,2,1,2-1,3,9,Victoria,Estadio Metropolitano,Barranquilla,46692,59,23,10,39,341,89,16,1,0,2,3,05
+2023-11-16,Brazil,Colombia,Fernando Diniz,4-4-2,1,2,1-2,0,7,Derrota,Estadio Metropolitano,Barranquilla,46692,59,12,3,61,532,92,12,2,0,1,7,05
+2023-11-16,Argentina,Uruguay,Lionel Scaloni,4-3-3,0,2,0-2,0,12,Derrota,Estadio La Bombonera,Buenos Aires,57200,82,12,3,64,576,85,11,4,0,5,8,05
+2023-11-16,Uruguay,Argentina,Marcelo Bielsa,4-2-3-1,2,0,2-0,3,10,Victoria,Estadio La Bombonera,Buenos Aires,57200,82,6,2,36,336,78,22,3,0,2,1,05
+2023-11-16,Chile,Paraguay,Eduardo Berizzo,4-2-3-1,0,0,0-0,1,5,Empate,Estadio Monumental David Arellano,Macul,47000,1883,13,5,72,612,88,8,2,1,1,7,05
+2023-11-16,Paraguay,Chile,Daniel Garnero,4-2-3-1,0,0,0-0,1,5,Empate,Estadio Monumental David Arellano,Macul,47000,1883,11,3,28,250,65,18,3,1,2,1,05
+2023-11-23,Paraguay,Colombia,Daniel Garnero,4-2-2-2,0,1,0-1,0,5,Derrota,Estadio Defensores del Chaco,Asunción,42354,141,13,2,41,310,70,10,2,0,1,4,06
+2023-11-23,Colombia,Paraguay,Nestor Lorenzo,4-2-3-1,1,0,1-0,3,12,Victoria,Estadio Defensores del Chaco,Asunción,42354,141,12,4,59,464,83,15,4,0,0,3,06
+2023-11-23,Ecuador,Chile,Felix Sanchez Bas,4-2-3-1,1,0,1-0,3,8,Victoria,Casa Blanca,Quito,41575,9350,14,5,53,417,83,14,2,0,0,5,06
+2023-11-23,Chile,Ecuador,Nicolás Córdova,5-3-2,0,1,0-1,0,5,Derrota,Casa Blanca,Quito,41575,9350,12,3,47,371,77,14,2,0,1,4,06
+2023-11-23,Uruguay,Bolivia,Marcelo Bielsa,4-3-3,3,0,3-0,3,13,Victoria,Estadio Centenario,Montevideo,60235,141,18,4,70,639,88,10,0,0,0,7,06
+2023-11-23,Bolivia,Uruguay,Antônio Carlos Zago,4-5-1,0,3,0-3,0,3,Derrota,Estadio Centenario,Montevideo,60235,141,4,0,30,287,72,11,2,0,2,1,06
+2023-11-23,Brazil,Argentina,Fernando Diniz,4-2-3-1,0,1,0-1,0,7,Derrota,Maracanã,Rio de Janeiro,78838,7,8,4,49,400,88,26,3,1,0,4,06
+2023-11-23,Argentina,Brazil,Lionel Scaloni,4-4-2,1,0,1-0,3,15,Victoria,Maracanã,Rio de Janeiro,78838,7,8,2,53,425,86,16,0,0,1,3,06
+2023-11-23,Peru,Venezuela,Juan Reynoso,4-3-3,1,1,1-1,1,2,Empate,Estadio Nacional de Lima,Lima,50086,505,12,5,47,325,68,19,2,0,2,2,06
+2023-11-23,Venezuela,Peru,Fernando Batista,4-4-2,1,1,1-1,1,9,Empate,Estadio Nacional de Lima,Lima,50086,505,9,3,53,341,76,18,3,0,0,4,06
+2024-09-05,Bolivia,Venezuela,Óscar Villegas,3-4-3,4,0,4-0,3,6,Victoria,Estadio Municipal de El Alto,El Alto,22000,13615,19,8,57,398,86,13,3,0,1,2,07
+2024-09-05,Venezuela,Bolivia,Fernando Batista,5-3-2,0,4,0-4,0,9,Derrota,Estadio Municipal de El Alto,El Alto,22000,13615,12,3,43,301,77,9,2,0,0,5,07
+2024-09-05,Argentina,Chile,Lionel Scaloni,3-5-2,3,0,3-0,3,18,Victoria,Estadio Mas Monumental,Buenos Aires,85018,82,16,8,65,642,89,8,2,0,0,4,07
+2024-09-05,Chile,Argentina,Ricardo Gareca,4-3-3,0,3,0-3,0,5,Derrota,Estadio Mas Monumental,Buenos Aires,85018,82,5,1,35,341,75,14,3,0,1,4,07
+2024-09-06,Uruguay,Paraguay,Marcelo Bielsa,4-3-3,0,0,0-0,1,14,Empate,Estadio Centenario,Montevideo,60235,141,12,1,66,480,78,13,4,0,4,8,07
+2024-09-06,Paraguay,Uruguay,Gustavo Alfaro,4-2-3-1,0,0,0-0,1,6,Empate,Estadio Centenario,Montevideo,60235,141,8,2,34,270,62,11,2,0,2,0,07
+2024-09-06,Brazil,Ecuador,Dorival Júnior,4-2-3-1,1,0,1-0,3,10,Victoria,Estadio Major Antônio Couto Pereira,Coritiba,40502,3066,10,3,58,611,89,8,1,0,0,4,07
+2024-09-06,Ecuador,Brazil,Sebastián Beccacece,3-5-2,0,1,0-1,0,8,Derrota,Estadio Major Antônio Couto Pereira,Coritiba,40502,3066,9,2,42,450,83,17,0,0,2,2,07
+2024-09-06,Peru,Colombia,Leonardo Martins,3-5-2,1,1,1-1,1,3,Empate,Estadio Nacional de Lima,Lima,50086,505,9,3,30,225,67,9,0,0,4,5,07
+2024-09-06,Colombia,Peru,Nestor Lorenzo,4-3-3,1,1,1-1,1,13,Empate,Estadio Nacional de Lima,Lima,50086,505,16,5,70,516,87,13,2,0,0,10,07
+2024-09-10,Colombia,Argentina,Nestor Lorenzo,4-3-3,2,1,2-1,3,16,Victoria,Estadio Metropolitano,Barranquilla,46692,59,9,5,47,314,82,8,2,0,2,2,08
+2024-09-10,Argentina,Colombia,Lionel Scaloni,4-4-2,1,2,1-2,0,18,Derrota,Estadio Metropolitano,Barranquilla,46692,59,13,1,53,342,85,10,2,0,0,4,08
+2024-09-10,Ecuador,Peru,Sebastián Beccacece,3-4-3,1,0,1-0,3,11,Victoria,Casa Blanca,Quito,41575,9350,11,5,70,532,90,20,1,0,5,8,08
+2024-09-10,Peru,Ecuador,Jorge Fossati,3-5-2,0,1,0-1,0,3,Derrota,Casa Blanca,Quito,41575,9350,2,1,30,240,68,9,4,0,5,0,08
+2024-09-10,Chile,Bolivia,Ricardo Gareca,4-4-2,1,2,1-2,0,5,Derrota,Estadio Nacional Julio Martínez Pradanos,Nunoa,48665,13123,19,5,75,552,85,11,4,0,1,10,08
+2024-09-10,Bolivia,Chile,Oscar Villegas,4-3-3,2,1,2-1,3,9,Victoria,Estadio Nacional Julio Martínez Pradanos,Nunoa,48665,13123,5,2,25,195,63,10,3,0,0,2,08
+2024-09-10,Venezuela,Uruguay,Fernando Batista,4-1-4-1,0,0,0-0,1,10,Empate,Estadio Monumental de Maturín,Maturin,51796,220,20,6,44,289,69,7,3,0,2,5,08
+2024-09-10,Uruguay,Venezuela,Marcelo Bielsa,4-3-3,0,0,0-0,1,15,Empate,Estadio Monumental de Maturín,Maturin,51796,220,8,2,56,376,75,17,4,0,5,5,08
+2024-09-10,Paraguay,Brazil,Gustavo Alfaro,4-2-3-1,1,0,1-0,3,9,Victoria,Estadio Defensores del Chaco,Asunción,42354,141,7,2,29,221,70,13,4,0,0,4,08
+2024-09-10,Brazil,Paraguay,Dorival Júnior,4-3-3,0,1,0-1,0,10,Derrota,Estadio Defensores del Chaco,Asunción,42354,141,9,3,71,552,87,8,2,0,0,6,08
+2024-10-10,Bolivia,Colombia,Oscar Villegas,4-3-3,1,0,1-0,3,12,Victoria,Estadio Municipal de El Alto,El Alto,22000,13615,14,8,34,241,82,9,1,1,1,5,09
+2024-10-10,Colombia,Bolivia,Nestor Lorenzo,4-2-3-1,0,1,0-1,0,16,Derrota,Estadio Municipal de El Alto,El Alto,22000,13615,20,9,66,454,92,8,1,0,1,9,09
+2024-10-10,Ecuador,Paraguay,Sebastián Beccacece,3-4-3,0,0,0-0,1,12,Empate,Casa Blanca,Quito,41575,9350,14,5,77,624,89,6,1,0,3,4,09
+2024-10-10,Paraguay,Ecuador,Gustavo Alfaro,3-4-3,0,0,0-0,1,10,Empate,Casa Blanca,Quito,41575,9350,3,2,23,189,58,10,1,0,1,3,09
+2024-10-10,Venezuela,Argentina,Fernando Batista,4-3-3,1,1,1-1,1,11,Empate,Estadio Monumental de Maturín,Maturin,51796,220,16,6,40,243,56,20,1,0,6,8,09
+2024-10-10,Argentina,Venezuela,Lionel Scaloni,4-4-2,1,1,1-1,1,19,Empate,Estadio Monumental de Maturín,Maturin,51796,220,8,4,60,382,71,13,1,0,0,4,09
+2024-10-10,Chile,Brazil,Ricardo Gareca,4-2-3-1,1,2,1-2,0,5,Derrota,Estadio Nacional Julio Martínez Pradanos,Nunoa,48665,13123,7,1,28,233,68,14,2,0,2,4,09
+2024-10-10,Brazil,Chile,Dorival Júnior,4-2-3-1,2,1,2-1,3,13,Victoria,Estadio Nacional Julio Martínez Pradanos,Nunoa,48665,13123,14,4,72,596,90,12,2,0,2,7,09
+2024-10-11,Peru,Uruguay,Jorge Fossati,3-5-2,1,0,1-0,3,6,Victoria,Estadio Nacional de Lima,Lima,50086,505,13,3,37,316,71,17,0,0,1,5,09
+2024-10-11,Uruguay,Peru,Marcelo Bielsa,3-5-2,0,1,0-1,0,15,Derrota,Estadio Nacional de Lima,Lima,50086,505,8,3,63,539,82,6,1,0,1,2,09
+2024-10-15,Colombia,Chile,Nestor Lorenzo,4-3-3,4,0,4-0,3,19,Victoria,Estadio Metropolitano,Barranquilla,46692,59,18,9,63,438,87,16,2,0,8,5,10
+2024-10-15,Chile,Colombia,Ricardo Gareca,4-2-3-1,0,4,0-4,0,5,Derrota,Estadio Metropolitano,Barranquilla,46692,59,8,2,37,261,72,15,2,0,0,2,10
+2024-10-15,Paraguay,Venezuela,Gustavo Alfaro,4-2-3-1,2,1,2-1,3,13,Victoria,Estadio Defensores del Chaco,Asunción,42354,141,13,6,61,401,76,10,2,0,2,5,10
+2024-10-15,Venezuela,Paraguay,Fernando Batista,4-2-3-1,1,2,1-2,0,11,Derrota,Estadio Defensores del Chaco,Asunción,42354,141,6,3,39,275,66,17,6,0,2,1,10
+2024-10-15,Uruguay,Ecuador,Marcelo Bielsa,4-2-3-1,0,0,0-0,1,16,Empate,Estadio Centenario,Montevideo,60235,141,11,4,55,435,81,14,1,0,1,6,10
+2024-10-15,Ecuador,Uruguay,Sebastián Beccacece,5-3-2,0,0,0-0,1,13,Empate,Estadio Centenario,Montevideo,60235,141,8,4,45,351,78,12,1,0,0,5,10
+2024-10-15,Argentina,Bolivia,Lionel Scaloni,4-3-3,6,0,6-0,3,22,Victoria,Estadio Mas Monumental,Buenos Aires,85018,82,14,10,73,795,93,10,0,0,3,4,10
+2024-10-15,Bolivia,Argentina,Oscar Villegas,5-4-1,0,6,0-6,0,12,Derrota,Estadio Mas Monumental,Buenos Aires,85018,82,4,1,27,304,81,13,1,0,0,0,10
+2024-10-15,Brazil,Peru,Dorival Júnior,4-2-3-1,4,0,4-0,3,16,Victoria,Arena BRB Mané Garrincha,Brasilia,69910,3845,18,8,69,506,90,10,1,0,0,6,10
+2024-10-15,Peru,Brazil,Jorge Fossati,3-5-2,0,4,0-4,0,6,Derrota,Arena BRB Mané Garrincha,Brasilia,69910,3845,3,2,31,240,76,17,5,0,3,1,10
+2024-11-14,Venezuela,Brazil,Leandro Cufré,4-2-3-1,1,1,1-1,1,12,Empate,Estadio Monumental de Maturín,Maturin,51796,220,12,5,33,213,77,14,4,1,5,3,11
+2024-11-14,Brazil,Venezuela,Dorival Júnior,4-2-3-1,1,1,1-1,1,17,Empate,Estadio Monumental de Maturín,Maturin,51796,220,13,4,67,438,83,12,2,0,2,9,11
+2024-11-14,Paraguay,Argentina,Gustavo Alfaro,4-4-2,2,1,2-1,3,16,Victoria,Estadio Defensores del Chaco,Asunción,42354,141,8,2,23,184,65,17,3,0,2,6,11
+2024-11-14,Argentina,Paraguay,Lionel Scaloni,4-2-3-1,1,2,1-2,0,22,Derrota,Estadio Defensores del Chaco,Asunción,42354,141,9,1,77,650,87,9,1,0,1,2,11
+2024-11-14,Ecuador,Bolivia,Sebastián Beccacece,4-5-1,4,0,4-0,3,16,Victoria,Estadio Monumental Isidro Romero Carbo,Guayaquil,59283,13,28,15,79,661,94,13,0,0,1,12,11
+2024-11-14,Bolivia,Ecuador,Oscar Villegas,4-2-3-1,0,4,0-4,0,12,Derrota,Estadio Monumental Isidro Romero Carbo,Guayaquil,59283,13,1,1,21,180,65,5,1,1,0,1,11
+2024-11-15,Uruguay,Colombia,Marcelo Bielsa,4-2-3-1,3,2,3-2,3,19,Victoria,Estadio Centenario,Montevideo,60235,141,10,5,44,360,82,18,4,0,2,6,11
+2024-11-15,Colombia,Uruguay,Nestor Lorenzo,4-4-2,2,3,2-3,0,19,Derrota,Estadio Centenario,Montevideo,60235,141,10,4,56,465,89,14,2,0,1,1,11
+2024-11-15,Peru,Chile,Jorge Fossati,3-5-2,0,0,0-0,1,7,Empate,"Estadio Monumental ""U""",Lima,80093,505,13,6,40,304,75,10,2,0,2,4,11
+2024-11-15,Chile,Peru,Ricardo Gareca,4-4-2,0,0,0-0,1,6,Empate,"Estadio Monumental ""U""",Lima,80093,505,13,5,60,450,82,11,3,0,1,8,11
+2024-11-19,Bolivia,Paraguay,Oscar Villegas,4-3-3,2,2,2-2,1,13,Empate,Estadio Municipal de El Alto,El Alto,22000,13615,11,5,65,494,90,7,0,1,1,4,12
+2024-11-19,Paraguay,Bolivia,Gustavo Alfaro,5-4-1,2,2,2-2,1,17,Empate,Estadio Municipal de El Alto,El Alto,22000,13615,13,4,35,269,81,10,0,1,0,1,12
+2024-11-19,Colombia,Ecuador,Nestor Lorenzo,4-4-2,0,1,0-1,0,19,Derrota,Estadio Metropolitano,Barranquilla,46692,59,25,7,67,523,88,12,3,0,5,5,12
+2024-11-19,Ecuador,Colombia,Sebastián Beccacece,4-5-1,1,0,1-0,3,19,Victoria,Estadio Metropolitano,Barranquilla,46692,59,4,1,33,278,74,11,2,1,0,2,12
+2024-11-19,Argentina,Peru,Lionel Scaloni,4-3-3,1,0,1-0,3,25,Victoria,Estadio La Bombonera,Buenos Aires,57200,82,11,3,74,802,92,10,0,0,1,2,12
+2024-11-19,Peru,Argentina,Jorge Fossati,3-5-2,0,1,0-1,0,7,Derrota,Estadio La Bombonera,Buenos Aires,57200,82,2,0,26,277,72,18,3,0,1,1,12
+2024-11-19,Chile,Venezuela,Ricardo Gareca,4-2-3-1,4,2,4-2,3,9,Victoria,Estadio Nacional Julio Martínez Pradanos,Nunoa,48665,13123,8,5,62,514,83,9,1,0,5,1,12
+2024-11-19,Venezuela,Chile,Fernando Batista,4-2-3-1,2,4,2-4,0,12,Derrota,Estadio Nacional Julio Martínez Pradanos,Nunoa,48665,13123,8,3,38,321,75,13,3,0,2,4,12
+2024-11-19,Brazil,Uruguay,Dorival Júnior,4-2-2-2,1,1,1-1,1,18,Empate,Fonte Nova Arena,Bahia,48902,6360,18,3,62,530,90,15,3,0,1,4,12
+2024-11-19,Uruguay,Brazil,Marcelo Bielsa,4-3-3,1,1,1-1,1,20,Empate,Fonte Nova Arena,Bahia,48902,6360,8,2,38,329,84,11,2,0,1,2,12
+2025-03-20,Paraguay,Chile,Gustavo Alfaro,4-4-2,1,0,1-0,3,20,Victoria,Estadio Defensores del Chaco,Asunción,42354,141,16,5,35,271,75,10,0,0,2,6,13
+2025-03-20,Chile,Paraguay,Ricardo Gareca,4-2-3-1,0,1,0-1,0,9,Derrota,Estadio Defensores del Chaco,Asunción,42354,141,9,3,65,503,84,11,0,0,3,4,13
+2025-03-20,Brazil,Colombia,Dorival Júnior,4-4-2,2,1,2-1,3,21,Victoria,Arena BRB Mané Garrincha,Brasilia,69910,3845,17,7,52,375,83,15,3,0,0,4,13
+2025-03-20,Colombia,Brazil,Nestor Lorenzo,4-2-3-1,1,2,1-2,0,19,Derrota,Arena BRB Mané Garrincha,Brasilia,69910,3845,10,3,48,356,83,24,1,0,4,2,13
+2025-03-20,Peru,Bolivia,Oscar  Ibáñez,4-3-2-1,3,1,3-1,3,10,Victoria,Estadio Nacional de Lima,Lima,50086,505,12,7,51,411,80,10,0,0,2,3,13
+2025-03-20,Bolivia,Peru,Oscar Villegas,4-3-3,1,3,1-3,0,13,Derrota,Estadio Nacional de Lima,Lima,50086,505,15,5,49,396,85,17,0,0,0,4,13
+2025-03-21,Ecuador,Venezuela,Sebastián Beccacece,4-2-3-1,2,1,2-1,3,22,Victoria,Casa Blanca,Quito,41575,9350,16,6,71,570,89,13,1,0,2,5,13
+2025-03-21,Venezuela,Ecuador,Fernando Batista,4-3-3,1,2,1-2,0,12,Derrota,Casa Blanca,Quito,41575,9350,10,6,29,232,71,13,2,0,2,2,13
+2025-03-21,Uruguay,Argentina,Marcelo Bielsa,4-3-3,0,1,0-1,0,20,Derrota,Estadio Centenario,Montevideo,60235,141,6,2,55,520,85,11,2,0,0,4,13
+2025-03-21,Argentina,Uruguay,Lionel Scaloni,4-2-3-1,1,0,1-0,3,28,Victoria,Estadio Centenario,Montevideo,60235,141,12,4,45,432,81,11,1,1,0,3,13
